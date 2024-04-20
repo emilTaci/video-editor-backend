@@ -12,11 +12,11 @@ This is a basic video editor application built using Node.js and FFmpeg. Please 
 ### Installation
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/emilTaci/video-editor-backend.git
+   git clone https://github.com/emilTaci/video-editor-backend.git video-editor-back
    ```
 2. **Install Dependencies:**
    ```
-   cd video-editor-app
+   cd video-editor-back
    npm install
    ```
 
